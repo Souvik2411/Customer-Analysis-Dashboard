@@ -1,4 +1,4 @@
-# Customer-Analysis-Dashboard
+# Customer-Analysis-Dashboard-Using-Tableau
 Made a customer analysis dashboard using simple data set and visualising it in Tableau !
 
 Here is my blog which contains step by step procedure on how to create your own CUSTOMER ANALYSIS DASHBOARD USING TABLEAU PUBLIC!!
